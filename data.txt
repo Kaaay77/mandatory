@@ -1,3 +1,4 @@
 name : Kay.
 cousr: Ironhaker master edition.
 age: 28.
+My favorite color: Blue.
